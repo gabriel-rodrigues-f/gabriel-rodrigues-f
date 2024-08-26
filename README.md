@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi, I'm Gabriel Rodrigues!</h1>
-  <h3>Software Developer, Architect, and Enthusiast of Clean Architecture & Domain-Driven Design</h3>
+  <h3>Software Developer, Architect, and Clean Architecture and Domain-Driven Design enthusiast</h3>
   <p>Passionate about building robust and scalable solutions, always striving for the best development practices.</p>
 </div>
 
