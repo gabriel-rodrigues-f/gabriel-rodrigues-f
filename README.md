@@ -1,6 +1,5 @@
 <div align="center">
-  <h1>👋 Hi, I'm Gabriel Rodrigues!</h1>
-  <h3>Software Developer, Software and Solutions Architect, Clean Architecture and Test-Driven Development enthusiast</h3>
+  <h3>Developer, Software and Solutions Architect, Clean Architecture and Test-Driven Development enthusiast</h3>
   <p>Passionate about building robust and scalable solutions, always striving for the best development practices.</p>
 </div>
 
